@@ -79,3 +79,7 @@ Instead of spending more on marketing, businesses should focus on **spending sma
 - Scikit-learn
 - K-Means Clustering
 - Principal Component Analysis (PCA)
+
+## Learning Outcome
+
+This project helped me understand how unsupervised machine learning can solve real business problems. I learned how to identify meaningful customer segments, interpret clustering results, and translate data into actionable business strategies instead of focusing only on model implementation.
